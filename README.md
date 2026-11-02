@@ -1,2 +1,2 @@
 # payroll
-A study project
+Practical assignment on payroll processing using C# and PostgreSQL
